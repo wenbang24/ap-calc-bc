@@ -13,4 +13,6 @@ This course only does differential equations where you can separate the variable
 6. (depends on question) Solve for C
 Note: if you get two answers (e.g. $\pm$ or absolute value) use the initial condition to figure out which one is the more appropriate solution
 ## Example
-$$\displaylines{x+2yy'=0\\x+2y{dy\over dx}=0\\x\,dx+2y\,dy=0\\2y\,dy=-x\,dx\\\int2y\,dy=-\int x\,dx\\y^2=-{x^2\over2}+C\\y=\sqrt{-{x^2\over2}+C}\text{ or }-\sqrt{-{x^2\over2}+C}}$$
+$$
+\displaylines{x+2yy'=0\\x+2y{dy\over dx}=0\\x\,dx+2y\,dy=0\\2y\,dy=-x\,dx\\\int2y\,dy=-\int x\,dx\\y^2=-{x^2\over2}+C\\y=\sqrt{-{x^2\over2}+C}\text{ or }-\sqrt{-{x^2\over2}+C}}
+$$
